@@ -17,8 +17,6 @@ void Main()
     LoveCSharpQuestion();
     SecretQuestion();
 }
-Main();
-
 
 
 void CanadaQuestion()
@@ -77,8 +75,6 @@ void SecretQuestion()
         MooseSays("Oh, no...secrets are the best, I love to share them!");
     }
 }
-
-
 
 
 void MooseSays(string message)
